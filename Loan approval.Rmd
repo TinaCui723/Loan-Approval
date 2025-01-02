@@ -1,9 +1,3 @@
----
-title: "Team 7 Analysis"
-author: "Team 7"
-date: "`r Sys.Date()`"
-output: html_document
----
 
 This rmd file contains multiple chunks of codes, when you run you may want to clear the environment every time you run different models
 
